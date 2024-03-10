@@ -2,15 +2,23 @@
 
 Este projeto tem como objetivo demonstrar o uso da biblioteca NLTK (Natural Language Toolkit) para realizar o processamento de linguagem natural. O código fornecido realiza a tokenização de um texto em inglês, exemplificando a tokenização por sentenças, tokenização por palavras e etiquetagem de partes do discurso (POS tagging).
 
+--> Certifique-se de ter o python instalado antes de prosseguir.
+
 ## Como Utilizar
 
 1. **Instalação das Dependências:**
-   Certifique-se de ter as dependências instaladas. Utilize o comando abaixo para instalar as dependências listadas no arquivo `requirements.txt`.
+ Utilize o comando abaixo para clonar o repositório do projeto.
+
+   ```bash
+   git clone https://github.com/taissalomao/atv_pln.git
+
+2. **Instalação das Dependências:**
+     Utilize o comando abaixo para instalar as dependências listadas no arquivo `requirements.txt`.
 
    ```bash
    pip install -r requirements.txt
 
-2. **Execução do Código:**
+3. **Execução do Código:**
 Execute o script tokenizacao_in.py para realizar o processamento de linguagem natural utilizando a biblioteca NLTK.
 Certifique-se de que o arquivo de texto (emma.txt ou outro de sua escolha) está no mesmo diretório do script.
 
