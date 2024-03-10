@@ -20,7 +20,7 @@ Este projeto tem como objetivo demonstrar o uso da biblioteca NLTK (Natural Lang
 
 3. **Execução do Código:**
 Execute o script tokenizacao_in.py para realizar o processamento de linguagem natural utilizando a biblioteca NLTK.
-Certifique-se de que o arquivo de texto (emma.txt ou outro de sua escolha) está no mesmo diretório do script.
+Certifique-se de que o arquivo de texto (texto.txt ou outro de sua escolha) está no mesmo diretório do script.
 
 
     ```bash
