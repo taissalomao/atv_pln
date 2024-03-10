@@ -25,7 +25,7 @@ print("\n")
 words = word_tokenize(sample_text_en)
 print("Words:")
 print_tokens(words)
-#print("\n")
+print("\n")
 
 
 pos_tags = pos_tag(words)
