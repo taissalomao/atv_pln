@@ -12,7 +12,7 @@ def print_tokens(tk):
         tc += 1
 
 
-with open('emma.txt', 'r', encoding='utf-8') as file:
+with open('./tokenizacao/emma.txt', 'r', encoding='utf-8') as file:
     sample_text_en = file.read()
 
 
@@ -25,7 +25,7 @@ print("\n")
 words = word_tokenize(sample_text_en)
 print("Words:")
 print_tokens(words)
-print("\n")
+#print("\n")
 
 
 pos_tags = pos_tag(words)
