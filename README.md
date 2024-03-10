@@ -13,7 +13,7 @@ Este projeto tem como objetivo demonstrar o uso da biblioteca NLTK (Natural Lang
    git clone https://github.com/taissalomao/atv_pln.git
 
 2. **Instalação das Dependências:**
-     Utilize o comando abaixo para instalar as dependências listadas no arquivo `requirements.txt`.
+     Dentro da pasta clonada, utilize o comando abaixo para instalar as dependências listadas no arquivo `requirements.txt`.
 
    ```bash
    pip install -r requirements.txt
