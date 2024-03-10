@@ -6,7 +6,7 @@ Este projeto tem como objetivo demonstrar o uso da biblioteca NLTK (Natural Lang
 
 ## Como Utilizar
 
-1. **Instalação das Dependências:**
+1. **Clonagem do Repositório:**
  Utilize o comando abaixo para clonar o repositório do projeto.
 
    ```bash
