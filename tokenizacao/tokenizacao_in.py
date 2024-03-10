@@ -12,7 +12,7 @@ def print_tokens(tk):
         tc += 1
 
 
-with open('./tokenizacao/emma.txt', 'r', encoding='utf-8') as file:
+with open('./tokenizacao/texto.txt', 'r', encoding='utf-8') as file:
     sample_text_en = file.read()
 
 

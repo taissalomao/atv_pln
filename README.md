@@ -32,4 +32,4 @@ tokenizacao_in.py: Script principal que realiza o processamento de linguagem nat
 
 requirements.txt: Arquivo que lista as dependências do projeto. Use para instalar as bibliotecas necessárias.
 
-emma.txt: Arquivo onde o texto que será processado está, pode ser substituido por outro qualquer, desde que, se o nome do arquivo for alterado, ele também deve ser alterado no código em "tokenizacao_in.py".
+texto.txt: Arquivo onde o texto que será processado está, pode ser substituido por outro qualquer, desde que, se o nome do arquivo for alterado, ele também deve ser alterado no código em "tokenizacao_in.py".
